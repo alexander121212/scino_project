@@ -1,0 +1,87 @@
+<resources>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_search">Фильтры и поиск</string>
+    <string name="nav_item_add">Добавить книгу</string>
+    <string name="nav_item_list_create">Создать список</string>
+    <string name="nav_item_realy_lists">Существующие списки</string>
+    <string name="nav_item_without_author_lists">Книги без списка</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_search</item>
+        <item>@string/nav_item_add</item>
+        <item>@string/nav_item_list_create</item>
+        <item>@string/nav_item_realy_lists</item>
+        <item>@string/nav_item_without_author_lists</item>
+    </string-array>
+
+    <string name="title_list_without_cat">Списки без категории</string>
+    <string name="title_list">Списки </string>
+    <string name="title_create_list">Создание списка</string>
+    <string name="title_add">Добавение книги</string>
+    <string name="title_search">Фильтры и поиск</string>
+    <string name="message">MESSAGES</string>
+    <string name="edit_fr">Edit fragment_home.xml to change the appearance</string>
+    <string name="friend">FRIENDS</string>
+    <string name="home">HOME</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">SCINO_books</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_books">Добавить книгу</string>
+    <string name="create_list_of_books">Создать список книг</string>
+    <string name="lists_real_books">Списки существующих книг</string>
+    <string name="list_books_without_cathegory">Список книг &quot;Без категории&quot;</string>
+    <string name="name_janr">Введите название списка</string>
+    <string name="add_janr_string">Добавить список</string>
+    <string name="without_list">Без списка</string>
+    <string name="choose_item">Выбран пункт </string>
+    <string name="deleted"> удалён</string>
+    <string name="delete_str">Удалить</string>
+    <string name="delete_all">Удалить всё</string>
+    <string name="book"> Книга </string>
+    <string name="she_deleted"> удалёна</string>
+    <string name="empty_list">Книги без списка отсутсвуют</string>
+    <string name="empty">Пусто</string>
+
+    <string name="field">Поле</string>
+    <string name="incorrect_full">заполненно некоректно</string>
+    <string name="notempty">В списке книг: </string>
+    <string name="exit_str">Выход: Вы уверены?</string>
+    <string name="yes_str">Да </string>
+    <string name="no_str">Нет</string>
+
+    <string name="book_list_string">Список книг</string>
+    <string name="update_list">Изменить название списка</string>
+    <string name="update_author">Изменить имя автора</string>
+    <string name="update_book">Изменить название книги</string>
+    <string name="readed">прочтено</string>
+    <string name="unreaded">непрочтено</string>
+    <string name="menu_str">Меню</string>
+    <string name="change_list_title">Изменить имя списка</string>
+    <string name="new_list_string">Введите новое имя списка</string>
+    <string name="new_book_string">Введите новое имя книги</string>
+    <string name="new_author_string">Введите новое имя автора</string>
+    <string name="check_like_readed">Отметить как прочитанное</string>
+    <string name="check_like_unreaded">Отметить как непрочитанное</string>
+    <string name="only_readed">Только прочитанные</string>
+    <string name="only_unreaded">Только непрочитанные</string>
+    <string name="view_all">Отобразить все</string>
+    <string name="choise">Выбрать</string>
+    <string name="choose_all">Выбрать всё</string>
+    <string name="search">Искать</string>
+    <string name="choose_list">выбрать список</string>
+    <string name="choose_category">выбрать категорию</string>
+    <string name="no_used">не использовать</string>
+    <string name="not_found">книги не найдены</string>
+
+    <string name="name_author">имя автора</string>
+    <string name="name_book">название книги</string>
+    <string name="name_list">название списка</string>
+    <string name="successful">успешно</string>
+    <string name="exist">уже в базе</string>
+</resources>
